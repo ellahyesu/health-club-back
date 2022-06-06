@@ -1,0 +1,13 @@
+*.gradle
+*.settings
+*.classpath
+
+*.jar
+*.class
+
+gradlew
+*.bat
+
+*.yml
+*.project
+*.properties
